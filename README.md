@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lucascardone
+- 👀 I’m interested in be part of a project
+- 🌱 I’m currently learning Fullstack development
+- 💞️ I’m looking to collaborate on in all the projects you can participate
+- 📫 How to reach me lucas.a.cardone@gmail.com
