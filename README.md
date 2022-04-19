@@ -5,7 +5,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascardone&layout=compact&langs_count=7&theme=react"/>
 </div>
   
-  ## Skills
+## Learning
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Java" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
