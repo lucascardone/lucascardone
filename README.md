@@ -29,8 +29,4 @@ languages.add("English(intermediate)");
 - UM (2020 - 2021) University of Law
 - Santa Maria (2015 - 2019) High School
 ## Random Joke
-<img src= https://camo.githubusercontent.com/6e6318e45cd6fffd32ea53a65decc3b4f7891e3f1f8016ea7704f75a0e310dcd/68747470733a2f2f726561646d652d6a6f6b65732e76657263656c2e6170702f6170693f7468656d653d736f6c6964426c7565 />
-  
-
-  
-  
+<img src= https://camo.githubusercontent.com/6e6318e45cd6fffd32ea53a65decc3b4f7891e3f1f8016ea7704f75a0e310dcd/68747470733a2f2f726561646d652d6a6f6b65732e76657263656c2e6170702f6170693f7468656d653d736f6c6964426c7565 /><br>
